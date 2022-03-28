@@ -15,7 +15,7 @@ This Policy will be effective on the 1th day of Oct., 2018 and, in case of modif
 
 1. Information to be collected and method of collection
 
-(1) Personal information items to be collected
+1.1. Personal information items to be collected
 
 Personal information items to be collected by the Company are as follows:
 
@@ -36,8 +36,7 @@ Besides of information directly provided by the users, the Company may collect i
 and telephone number, Log data, use time, search word input by users, internet protocol address
 
  
-
-(2) Method of collection
+1.2. Method of collection
 
 The Company collects the information of users in a way of the followings:
 
