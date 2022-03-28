@@ -14,22 +14,23 @@ Through this Policy, the Company regards personal information of the users as im
 This Policy will be effective on the 1th day of Oct., 2018 and, in case of modification thereof, the Company will make public notice of it through posting it on the bulletin board of Company's website or individual notice through sending e-mails).
 ​
 
-1. Information to be collected and method of collection
- 1.1. Personal information items to be collected Personal information items to be collected by the Company are as follows:
-
-  * Information provided by the users
+ Information to be collected and method of collection.
+------------------------------------------------------
+-  Personal information items to be collected Personal information items to be collected by the Company are as follows:
+ * Information provided by the users.
    The Company may collect the information directly provided by the users.
    - Name, email address, ID, national information, encoded identification information (CI), identification information of overlapped membership (DI)
-  * Information collected while the users use services
+  * Information collected while the users use services.
     Besides of information directly provided by the users, the Company may collect information in the course that the users use the service provided by the Company.
-   - Equipment identifier, operation system, hardware version, equipment set-up and telephone number, Log data, use time, search word input by users, internet protocol address
+   - Equipment identifier, operation system, hardware version, equipment set-up and telephone number, Log data, use time, search word input by users, internet protocol address.
  
- 1.2. Method of collection
+1.2. Method of collection
   The Company collects the information of users in a way of the followings:
-   - tools for collection of created information, provided by partner companies
+   - tools for collection of created information, provided by partner companies.
 
 
-2. Use of collected information
+Use of collected information.
+--------------------------------
  The Company uses the collected information of users for the following purposes:
  - Member management and identification
  - To detect and deter unauthorized or fraudulent use of or abuse of the Service
@@ -38,7 +39,8 @@ This Policy will be effective on the 1th day of Oct., 2018 and, in case of modif
   The Company agrees that it will obtain consent from the users, if the Company desires to use the information other than those expressly stated in this Policy.
 
  
-3. Sharing collected information
+Sharing collected information
+------------------------------
  Except for the following cases, the Company will not share personal information with a 3rd party:
  * when the Company shares the information with its affiliates, partners and service providers;
  * when the users consent the sharing in advance;
@@ -46,7 +48,8 @@ This Policy will be effective on the 1th day of Oct., 2018 and, in case of modif
  - if required to be disclosed by the laws and regulations; or
  - if required to be disclosed by the investigative agencies for detecting crimes in accordance with the procedure and method as prescribed in the laws and regulations
 
-4. Users' right to access and option
+Users' right to access and option
+-----------------------------------
  The users or their legal representatives, as main agents of the information, may exercise the following options regarding the collection, use and sharing of personal information by the Company:
 
  * exercise right to access to personal information;
@@ -55,20 +58,23 @@ This Policy will be effective on the 1th day of Oct., 2018 and, in case of modif
  * request the withdrawal of their consent provided before
  If, in order to exercise the above options, you, as an user, use the menu of 'amendment of member information of webpage or contact the Company by using representative telephone or sending a document or e-mails, or using telephone to the responsible department (or person in charge of management of personal information), the Company will take measures without delay: Provided that the Company may reject the request of you only to the extent that there exists either proper cause as prescribed in the laws or equivalent cause.
 
-5. Security
+Security
+----------
  The Company regards the security of personal information of uses as very important. The company constructs the following security measures to protect the users' personal information from any unauthorized access, release, use or modification
 
  - Transmit users' personal information by using encrypted communication zone
  - Store important information such as passwords after encrypting it
 
 
-6. Others
+Others
+------- 
  Considering it engages in global businesses, the Company may provide the users' personal information to the companies located in other countries for the purpose as expressly stated in this Policy. For the places where the personal information is transmitted, retained or processed, the Company takes reasonable measures for protecting that personal information.
 
  In addition, when the personal information obtained from the European Union is used or disclosed, the Company may have to comply with safe harbor principle as required by the Commerce Department of USA, take other measures or obtain consent from users so far as those complies with the regulations of EU so as to use a standardized agreement provision approved by executing organizations of EU or securing proper safe measures.
 
  
-7. Responsible department of Company
+Responsible department of Company
+----------------------------------------
  The Company designates the following department and person in charge of personal information in order to protect personal information of customers and deal with complaints from customers:
 
 ​ * Department responsible for privacy protection and customer service :
