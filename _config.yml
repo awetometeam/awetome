@@ -30,3 +30,7 @@ defaults:
       comments: false
       share: true
       related: false
+# Reading Files
+include:
+  - .htaccess
+  - _pages
