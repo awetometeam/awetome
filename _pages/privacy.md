@@ -12,7 +12,6 @@ This Privacy Policy (the "Policy") explains the way of treatment of the informat
 Through this Policy, the Company regards personal information of the users as important and inform them of the purpose and method of Company's using the personal information provided by the users and the measures taken by the Company for protection of those personal information.
 
 This Policy will be effective on the 1th day of Oct., 2018 and, in case of modification thereof, the Company will make public notice of it through posting it on the bulletin board of Company's website or individual notice through sending e-mails).
-​
 
  Information to be collected and method of collection.
 ------------------------------------------------------
@@ -23,8 +22,9 @@ This Policy will be effective on the 1th day of Oct., 2018 and, in case of modif
   * Information collected while the users use services.
     Besides of information directly provided by the users, the Company may collect information in the course that the users use the service provided by the Company.
    - Equipment identifier, operation system, hardware version, equipment set-up and telephone number, Log data, use time, search word input by users, internet protocol address.
- 
-1.2. Method of collection
+
+Method of collection
+---------------------
   The Company collects the information of users in a way of the followings:
    - tools for collection of created information, provided by partner companies.
 
@@ -77,7 +77,7 @@ Responsible department of Company
 ----------------------------------------
  The Company designates the following department and person in charge of personal information in order to protect personal information of customers and deal with complaints from customers:
 
-​ * Department responsible for privacy protection and customer service :
+ * Department responsible for privacy protection and customer service :
 
 E-mail: Richard@awetome.net
 
