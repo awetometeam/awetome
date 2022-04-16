@@ -3,6 +3,7 @@ title: "app-ads.txt"
 permalink: /app-ads.txt
 layout: single
 ---
+
 admixplay.com, 2012, RESELLER
 criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
 spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
